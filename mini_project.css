@@ -1,0 +1,195 @@
+html{
+	font-family: "tondo",sans-serif;
+}
+body{
+	margin: 0;
+}
+.notify{
+	color: #fff;
+	background-color: #222220;
+	text-align: center;
+	font-family: "tondo",sans-serif;
+	font-size: 17px;
+	padding: 8px;
+}
+
+.brand-name{
+	text-align: center;
+	margin-bottom: 1px solid #ccc;
+	padding: 10px;
+}
+.logo{
+	text-align: center;
+	width: 103px;
+	height: auto;
+}
+.search-box{
+	font-size: 12px;
+	text-transform: uppercase;
+	border:1px solid #ccc;
+	height: 40px;
+}
+#search{
+	color: #8d8d8d;
+	font-size: 18px;
+}
+#user{
+	color: #8d8d8d;
+	font-size: 30px;
+	right:50px;
+	float: right;
+	margin-right: 10px;
+}
+
+#cart{
+	color: #8d8d8d;
+	font-size: 30px;
+	font-size: 30px;
+	float: right;
+	margin-right: 20px;
+}
+.nav-items{
+	text-align: center;
+	padding: 10px;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid#ccc;
+}
+.nav-items li a{
+	text-decoration: none;
+	color: #8d8d8d;
+	font-size: 12px;
+}
+.nav-items li{
+	display: inline-block;
+	margin-right: 10px;
+}
+#sale{
+	color: #e4032d;
+}
+.items li a{
+	text-decoration: none;
+	color: #8d8d8d;
+	font-size: 12px;
+}
+.items{
+	text-align: center;
+	padding: 10px;
+}
+.items li{
+	display: inline-block;
+	margin-right: 10px;
+}
+#car{
+	color: #8d8d8d;
+	font-size: 18px;
+}
+#sign-in{
+	color: #8d8d8d;
+	font-size: 15px;
+}
+#easy{
+	color: #8d8d8d;
+	font-size: 15px;
+}
+.banner{
+	width: 100%;
+	height: auto;
+}
+.column{
+  float: left;
+  width: 32.5%;
+  padding: 5px;
+  padding-top: 15px;
+
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row img{
+	width: 100%;
+	height: auto;
+
+}
+.column2{
+  float: left;
+  width: 48.2%;	 
+  padding: 12px;
+  padding-top: 15px;
+
+}
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row2 img{
+	width: 100%;
+	height:auto;
+}
+.column3{
+  float: left;
+  width: 32.5%;
+  padding: 5px;
+  padding-top: 15px;
+
+}
+.row3::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row3 img{
+	width: 100%;
+	height: auto;
+
+}
+#car-down{
+	color: #8d8d8d;
+	font-size: 18px;
+}
+#sign-in-down{
+	color: #8d8d8d;
+	font-size: 15px;
+}
+#easy-down{
+	color: #8d8d8d;
+	font-size: 15px;
+}
+.column4 a{
+	text-decoration: none;
+	color:#8d8d8d;
+	font-size: 12px;
+}
+.column4{
+  float: left;
+  width: 32.5%;
+  padding: 5px;
+  padding-top: 15px;
+  text-align: center;
+
+}
+.row4::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column5{
+  float: left;
+  width: 23.5%;
+  padding-left:20px;
+  padding-top: 15px;
+
+
+}
+.row5::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row5 img{
+	width: 100%;
+	height: auto;
+
+}
